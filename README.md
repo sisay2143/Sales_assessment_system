@@ -1,4 +1,5 @@
-# Inventory Management Flutter App
+#Sales_assessment_system
+
 
 This Flutter app is specifically desinged for streamlined inventory management in small-scale stores, providing users with a contemporary solution to replace traditional manual methods. The app is integrated with a Firebase backend for efficient data management and enhanced accessibility.
 
